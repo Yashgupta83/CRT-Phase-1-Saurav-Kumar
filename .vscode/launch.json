@@ -8,8 +8,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
-      "cwd": ".",
-      "program": "build/Debug/outDebug",
+      "cwd": "c:/Users/yashg/OneDrive/Documents/vsc/CRT/Day - 7",
+      "program": "c:/Users/yashg/OneDrive/Documents/vsc/CRT/Day - 7/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
